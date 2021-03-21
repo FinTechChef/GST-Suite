@@ -1,5 +1,5 @@
-<h1 align='center'>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> this is <a href='https://drive.google.com/uc?id=1sJV9533HZ_SKC0O6aJdIOnE-qWG3oyma&export=download'>GST Suite</a> | <a href='https://drive.google.com/uc?id=1sJV9533HZ_SKC0O6aJdIOnE-qWG3oyma&export=download'>Download</a></h1>
-<h3 align='center'>Use of the software is covered under <a href='https://github.com/FinTechChef/GST-Suite/blob/main/LICENSE.md'>LICENSE</a> | <a href='https://wa.me/p/3908362822540630/919354418851'>Purchase</a> | <a href='https://wa.me/p/3908362822540630/919354418851'>Know More!</a></h3>
+<h1 align='center'>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> this is <a href='https://drive.google.com/uc?id=1sJV9533HZ_SKC0O6aJdIOnE-qWG3oyma&export=download' target='_blank'>GST Suite</a> | <a href='https://drive.google.com/uc?id=1sJV9533HZ_SKC0O6aJdIOnE-qWG3oyma&export=download' target='_blank'>Download</a></h1>
+<h3 align='center'>Use of the software is covered under <a href='https://github.com/FinTechChef/GST-Suite/blob/main/LICENSE.md' target='_blank'k>LICENSE</a> | <a href='https://wa.me/p/3908362822540630/919354418851' target='_blank'>Purchase</a> | <a href='https://wa.me/p/3908362822540630/919354418851' target='_blank'>Know More!</a></h3>
 
 ---
 
